@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640"
+   height="640"
+   viewBox="0 0 169.33333 169.33334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="flowers resources.svg"
+   inkscape:export-filename="D:\Projects\RoadsidePicnic\textures\characters\huntsman.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-global="false"
+     inkscape:zoom="1.28"
+     inkscape:cx="23.046875"
+     inkscape:cy="-15.234375"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     height="64px"
+     width="640px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       spacingx="16.933333"
+       spacingy="16.933333"
+       color="#161657"
+       opacity="1"
+       empcolor="#1f1f7d"
+       empopacity="1"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       enabled="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g854"
+       transform="rotate(90,17.098198,-0.28521779)">
+      <ellipse
+         style="fill:#ff9955;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.265341;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path3957"
+         cx="25.000221"
+         cy="0.32556018"
+         rx="0.72138602"
+         ry="1.0384723"
+         transform="matrix(0.99283898,0.11946032,-0.22464434,0.97444082,0,0)"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <ellipse
+         style="fill:#ff9955;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.265341;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path3957-2"
+         cx="-24.938841"
+         cy="6.4250813"
+         rx="0.72138602"
+         ry="1.0384723"
+         transform="matrix(-0.99283898,0.11946032,0.22464434,0.97444082,0,0)"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <g
+         id="g3933"
+         transform="matrix(0.96519539,0,0,0.96528777,1.1714583,2.7084831)"
+         style="stroke-width:1.03601"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008">
+        <rect
+           style="fill:#241f1c;fill-rule:evenodd;stroke:#040b00;stroke-width:0.274112;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect3701"
+           width="0.62119287"
+           height="2.850179"
+           x="24.892012"
+           y="-2.5222628" />
+        <rect
+           style="fill:#0f0f0f;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.274112;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect3701-0"
+           width="0.62119287"
+           height="1.125478"
+           x="24.901043"
+           y="0.3771261" />
+      </g>
+      <path
+         id="rect1055"
+         style="fill:#241f1c;fill-rule:evenodd;stroke:#030800;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 23.748232,3.4374503 c 0.58043,-0.1248247 1.037741,0.1936211 1.383056,0.9152895 L 23.757174,6.5782085 22.044087,8.4330936 20.238341,11.946235 18.910618,8.2796338 21.622893,5.9902194 Z"
+         inkscape:transform-center-x="-3.0388167"
+         inkscape:transform-center-y="-1.3605212"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <path
+         id="rect1055-6"
+         style="fill:#241f1c;fill-rule:evenodd;stroke:#030800;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         d="M 27.289363,3.414623 C 26.566208,3.1953972 26.020631,3.331361 25.906307,4.3299125 l 1.349379,2.20672 1.737821,1.873634 3.13347,-0.1534598 -2.849307,-2.4540051 z"
+         inkscape:transform-center-x="3.038817"
+         inkscape:transform-center-y="-1.3605208"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <path
+         id="rect1032"
+         style="fill:#112b00;fill-rule:evenodd;stroke:#0b1b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 19.114699,8.2081889 c 1.991047,-0.623055 6.337472,0.4582676 6.337472,0.4582676 0,0 4.208364,-1.1770569 6.550489,-0.4582676 0.981926,0.3013486 -0.564303,3.2065421 -0.564303,3.2065421 0,0 -1.348644,1.366537 -2.403521,1.486132 -1.890253,0.214302 -5.307959,0.268987 -7.023284,0.07433 -1.048797,-0.119022 -2.332549,-1.560459 -2.332549,-1.560459 0,0 -1.543353,-2.9001695 -0.564304,-3.2065421 z"
+         sodipodi:nodetypes="scscsscss"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <path
+         id="rect4363"
+         style="fill:#784421;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         d="m 21.836007,12.271382 h 7.51975 c 0.36099,0 0.651607,0.340982 0.651607,0.764536 v 0.474064 c 0,0.423553 -0.30708,1.439067 -0.651607,1.565522 -1.245086,0.456997 -2.476994,0.674333 -3.697108,0.677181 -1.286791,0.003 -2.560463,-0.232566 -3.822642,-0.677181 -0.345744,-0.121791 -0.651608,-1.141969 -0.651608,-1.565522 v -0.474064 c 0,-0.423554 0.290618,-0.764536 0.651608,-0.764536 z"
+         sodipodi:nodetypes="ssssssssss"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <rect
+         style="fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect4914"
+         width="1.317749"
+         height="4.7542319"
+         x="22.347914"
+         y="6.6542988"
+         rx="0.63946354"
+         ry="0.21313298"
+         inkscape:transform-center-x="0.12580156"
+         inkscape:transform-center-y="2.0762084"
+         transform="rotate(3.1115813)"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <rect
+         style="fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect4914-6"
+         width="1.317749"
+         height="4.7542319"
+         x="-28.64851"
+         y="9.4432163"
+         rx="0.63946354"
+         ry="0.21313298"
+         inkscape:transform-center-x="-0.12580069"
+         inkscape:transform-center-y="2.0762084"
+         transform="matrix(-0.99852572,0.05428065,0.05428065,0.99852572,0,0)"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <ellipse
+         style="fill:#241f1c;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path5556"
+         cx="25.624943"
+         cy="8.6955938"
+         rx="2.6435261"
+         ry="2.4941313"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <ellipse
+         style="fill:#241f1c;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path5556-0"
+         cx="25.594469"
+         cy="9.019455"
+         rx="2.3266284"
+         ry="2.1943164"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <path
+         id="rect4142"
+         style="fill:#483737;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         d="m 22.958193,11.828061 h 5.263467 c 0.354262,0 0.639463,0.285201 0.639463,0.639464 v 0.537599 c 0,0.354262 -0.29214,0.569689 -0.639463,0.639463 -1.827932,0.367217 -3.581697,0.363594 -5.263467,0 -0.346263,-0.07486 -0.639463,-0.285201 -0.639463,-0.639463 v -0.537599 c 0,-0.354263 0.2852,-0.639464 0.639463,-0.639464 z"
+         sodipodi:nodetypes="sssssssss"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <rect
+         style="fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6197"
+         width="2.4417114"
+         height="1.0335287"
+         x="24.308969"
+         y="11.105638"
+         rx="0.63946354"
+         ry="0.51027244"
+         transform="rotate(8.8834145)"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+      <rect
+         style="fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect6197-6"
+         width="2.4417114"
+         height="1.0335287"
+         x="-26.322773"
+         y="19.084723"
+         rx="0.63946354"
+         ry="0.51027244"
+         transform="matrix(-0.98800461,0.15442439,0.15442439,0.98800461,0,0)"
+         inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+         inkscape:export-xdpi="96.000008"
+         inkscape:export-ydpi="96.000008" />
+    </g>
+    <ellipse
+       style="fill:#ff9955;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.265341;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path3957-4"
+       cx="0.99820107"
+       cy="-30.672283"
+       rx="0.72138602"
+       ry="1.0384723"
+       transform="matrix(-0.11946032,0.99283898,-0.97444082,-0.22464434,0,0)"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <ellipse
+       style="fill:#ff9955;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.265341;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path3957-2-9"
+       cx="-15.150349"
+       cy="-28.702011"
+       rx="0.72138602"
+       ry="1.0384723"
+       transform="matrix(-0.11946032,-0.99283898,-0.97444082,0.22464434,0,0)"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <g
+       id="g3933-8"
+       transform="matrix(0,0.96519539,-0.96528777,0,30.24389,-16.102335)"
+       style="stroke-width:1.03601"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008">
+      <rect
+         style="fill:#241f1c;fill-rule:evenodd;stroke:#040b00;stroke-width:0.274112;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect3701-06"
+         width="0.62119287"
+         height="2.850179"
+         x="24.892012"
+         y="-2.5222628" />
+      <rect
+         style="fill:#0f0f0f;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.274112;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect3701-0-3"
+         width="0.62119287"
+         height="1.125478"
+         x="24.901043"
+         y="0.3771261" />
+    </g>
+    <path
+       id="rect1055-64"
+       style="fill:#241f1c;fill-rule:evenodd;stroke:#030800;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 29.520751,7.5967104 c 0.0095,0.5936244 -0.39185,0.9802292 -1.166918,1.178517 L 26.438286,6.9943341 24.952198,4.9530575 21.857582,2.4982198 l 3.854872,-0.5888754 1.717883,3.105919 z"
+       inkscape:transform-center-x="-0.87817351"
+       inkscape:transform-center-y="2.7790579"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <path
+       id="rect1055-6-5"
+       style="fill:#241f1c;fill-rule:evenodd;stroke:#030800;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 29.271214,9.1241751 C 29.356874,8.3733919 29.12505,7.8611433 28.122215,7.9281811 l -1.928209,1.7240784 -1.530723,2.0463175 0.714234,3.054841 1.901838,-3.244025 z"
+       inkscape:transform-center-x="-1.8760125"
+       inkscape:transform-center-y="-1.9847584"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <path
+       id="rect1032-7"
+       style="fill:#112b00;fill-rule:evenodd;stroke:#0b1b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 25.420188,1.731284 c 0.623055,1.991047 -0.458268,6.337472 -0.458268,6.337472 0,0 1.177057,4.208364 0.458268,6.550489 -0.301349,0.981926 -3.206542,-0.564303 -3.206542,-0.564303 0,0 -1.366537,-1.348644 -1.486132,-2.403521 -0.214302,-1.890253 -0.268987,-5.307959 -0.07433,-7.023284 0.119022,-1.048797 1.560459,-2.332549 1.560459,-2.332549 0,0 2.900169,-1.543353 3.206542,-0.564304 z"
+       sodipodi:nodetypes="scscsscss"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <path
+       id="rect4363-0"
+       style="fill:#784421;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 21.356995,4.452592 v 7.51975 c 0,0.36099 -0.340982,0.651607 -0.764536,0.651607 h -0.474064 c -0.423553,0 -1.439067,-0.30708 -1.565522,-0.651607 -0.456997,-1.245086 -0.674333,-2.476994 -0.677181,-3.697108 -0.003,-1.286791 0.232566,-2.560463 0.677181,-3.822642 0.121791,-0.345744 1.141969,-0.651608 1.565522,-0.651608 h 0.474064 c 0.423554,0 0.764536,0.290618 0.764536,0.651608 z"
+       sodipodi:nodetypes="ssssssssss"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <rect
+       style="fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4914-7"
+       width="1.317749"
+       height="4.7542319"
+       x="3.1647568"
+       y="-25.980917"
+       rx="0.63946354"
+       ry="0.21313298"
+       inkscape:transform-center-x="0.12580156"
+       inkscape:transform-center-y="2.0762084"
+       transform="rotate(93.111581)"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <rect
+       style="fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4914-6-6"
+       width="1.317749"
+       height="4.7542319"
+       x="-13.116094"
+       y="-25.079165"
+       rx="0.63946354"
+       ry="0.21313298"
+       inkscape:transform-center-x="-0.12580069"
+       inkscape:transform-center-y="2.0762084"
+       transform="matrix(-0.05428065,-0.99852572,-0.99852572,0.05428065,0,0)"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <ellipse
+       style="fill:#241f1c;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5556-4"
+       cx="8.2415276"
+       cy="-24.932783"
+       rx="2.6435261"
+       ry="2.4941313"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008"
+       transform="rotate(90)" />
+    <ellipse
+       style="fill:#241f1c;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path5556-0-2"
+       cx="8.2110538"
+       cy="-24.608923"
+       rx="2.3266284"
+       ry="2.1943164"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008"
+       transform="rotate(90)" />
+    <path
+       id="rect4142-0"
+       style="fill:#483737;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 21.800316,5.574778 v 5.263467 c 0,0.354262 -0.285201,0.639463 -0.639464,0.639463 h -0.537599 c -0.354262,0 -0.569689,-0.29214 -0.639463,-0.639463 -0.367217,-1.827932 -0.363594,-3.581697 0,-5.263467 0.07486,-0.346263 0.285201,-0.639463 0.639463,-0.639463 h 0.537599 c 0.354263,0 0.639464,0.2852 0.639464,0.639463 z"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <rect
+       style="fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect6197-7"
+       width="2.4417114"
+       height="1.0335287"
+       x="1.9410331"
+       y="-19.434933"
+       rx="0.63946354"
+       ry="0.51027244"
+       transform="rotate(98.883415)"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+    <rect
+       style="fill:#784421;fill-opacity:1;fill-rule:evenodd;stroke:#040b00;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect6197-6-9"
+       width="2.4417114"
+       height="1.0335287"
+       x="-14.340919"
+       y="-16.824692"
+       rx="0.63946354"
+       ry="0.51027244"
+       transform="matrix(-0.15442439,-0.98800461,-0.98800461,0.15442439,0,0)"
+       inkscape:export-filename="D:\Projects\FlowersGame\Assets\Textures\actor_pistol.png"
+       inkscape:export-xdpi="96.000008"
+       inkscape:export-ydpi="96.000008" />
+  </g>
+</svg>

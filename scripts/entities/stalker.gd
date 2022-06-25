@@ -53,3 +53,7 @@ func _on_ShotTimer_timeout():
 		var y = rand_range(-100, 100)
 		shot(_target.position + Vector2(x, y))
 		$ShotTimer.wait_time = rand_range(0.1, 2.0)
+
+
+func _on_Animation_animation_finished():
+	$Animation.stop()

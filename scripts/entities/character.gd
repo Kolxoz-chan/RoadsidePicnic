@@ -23,11 +23,16 @@ func shot(pos):
 		$Ray.cast_to = Vector2( position.distance_to(pos), 0)
 		var obj = $Ray.get_collider()
 		
+		# Logic
 		if obj:
 			pos = $Ray.get_collision_point()
 			obj.addHP(-rand_range(10,25))
 			if obj._type != "player":
 				obj.setTarget(self)
+		
+		# Animation
+		$Animation.frame = 0
+		$Animation.play("shot")
 		
 		# Visual
 		var bullet = _weapon_slot.getBullet()

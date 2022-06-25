@@ -42,3 +42,7 @@ func rotation_controll():
 func _process(delta):
 	motion_controll()
 	rotation_controll()
+
+
+func _on_Animation_animation_finished():
+	$Animation.stop()
