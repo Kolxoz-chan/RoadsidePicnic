@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tileset_outdor_01.png-7fec74b22f53f40f495298f097ef48ea.stex"
+path="res://.import/containers.png-fe1509b1c8b66660337b8f934f49185e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://textures/tilesets/tileset_outdor_01.png"
-dest_files=[ "res://.import/tileset_outdor_01.png-7fec74b22f53f40f495298f097ef48ea.stex" ]
+source_file="res://textures/tilesets/containers.png"
+dest_files=[ "res://.import/containers.png-fe1509b1c8b66660337b8f934f49185e.stex" ]
 
 [params]
 

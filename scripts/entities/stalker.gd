@@ -7,7 +7,6 @@ export(float, 0.0, 1.0) var _stay_radius = 0.6
 export(float, 0.0, 1.0) var _retreat_radius = 0.4
 	
 func _ready():
-	_type = "npc"
 	$ShotTimer.wait_time = rand_range(0.1, 2.0)
 	
 func _process(delta):
@@ -43,14 +42,15 @@ func setTarget(obj):
 	_target = obj
 
 func _on_VisionArea_body_entered(body):
-	if body.getFraction() != self.getFraction():
-		_target = body
+	if body.type == Entity.TYPE.CHARACTER or body.type == Entity.TYPE.PLAYER:
+		if body.getFraction() != self.getFraction():
+			_target = body
 
 
 func _on_ShotTimer_timeout():
 	if _target:
-		var x = rand_range(-100, 100)
-		var y = rand_range(-100, 100)
+		var x = rand_range(-40, 40)
+		var y = rand_range(-40, 40)
 		shot(_target.position + Vector2(x, y))
 		$ShotTimer.wait_time = rand_range(0.1, 2.0)
 

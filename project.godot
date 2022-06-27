@@ -9,15 +9,15 @@
 config_version=4
 
 _global_script_classes=[ {
-"base": "Sprite",
-"class": "Bullet",
-"language": "GDScript",
-"path": "res://scripts/entities/bullet.gd"
-}, {
 "base": "KinematicBody2D",
 "class": "Character",
 "language": "GDScript",
 "path": "res://scripts/entities/character.gd"
+}, {
+"base": "Reference",
+"class": "Entity",
+"language": "GDScript",
+"path": "res://scripts/entities/entity.gd"
 }, {
 "base": "Reference",
 "class": "Fractions",
@@ -30,9 +30,19 @@ _global_script_classes=[ {
 "path": "res://scripts/items/item.gd"
 }, {
 "base": "Character",
+"class": "Player",
+"language": "GDScript",
+"path": "res://scripts/entities/player.gd"
+}, {
+"base": "Character",
 "class": "Stalker",
 "language": "GDScript",
 "path": "res://scripts/entities/stalker.gd"
+}, {
+"base": "StaticBody2D",
+"class": "StaticEntity",
+"language": "GDScript",
+"path": "res://scripts/entities/decoration.gd"
 }, {
 "base": "Item",
 "class": "WeaponItem",
@@ -40,11 +50,13 @@ _global_script_classes=[ {
 "path": "res://scripts/items/weapon_item.gd"
 } ]
 _global_script_class_icons={
-"Bullet": "",
 "Character": "",
+"Entity": "",
 "Fractions": "",
 "Item": "",
+"Player": "",
 "Stalker": "",
+"StaticEntity": "",
 "WeaponItem": ""
 }
 

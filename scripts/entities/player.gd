@@ -1,9 +1,13 @@
-extends Character
+class_name Player extends Character
 
 export var _speed_boost = 2
-
+	
 func _ready():
-	_type = "player"
+	type = Entity.TYPE.PLAYER
+	$hud_screen/hbox/stats/vbox/hbox/hp_bar.value = _hp
+	$hud_screen/hbox/stats/vbox/hbox/hp_bar.max_value = _max_hp
+	$hud_screen/hbox/weapon/CenterContainer/weapon_icon.texture = _weapon_slot._icon
+	rotation_degrees = 0
 	
 func _input(event):
 	if event is InputEventMouseButton:
@@ -30,19 +34,22 @@ func motion_controll():
 
 func rotation_controll():
 	var pos = get_global_mouse_position()
-	look_at(pos)
+	$Animation.look_at(pos)
 	
-	$Ray.cast_to = Vector2( position.distance_to(pos), 0)
+	$Ray.cast_to = pos - position 
 	if $Ray.is_colliding():
 		var obj = $Ray.get_collider()
 		var point = $Ray.get_collision_point()
 		
-		obj.at_gunpoint(point)
+		if obj.type == Entity.TYPE.CHARACTER:
+			obj.at_gunpoint(point)
 
 func _process(delta):
 	motion_controll()
 	rotation_controll()
 
-
 func _on_Animation_animation_finished():
 	$Animation.stop()
+
+func _on_player_health_changed():
+	$hud_screen/hbox/stats/vbox/hbox/hp_bar.value = _hp

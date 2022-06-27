@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/metall_01.wav-9f86ce3db6b98ecd86c0b894885be12c.sample"
+
+[deps]
+
+source_file="res://audio/sounds/boom/metall_01.wav"
+dest_files=[ "res://.import/metall_01.wav-9f86ce3db6b98ecd86c0b894885be12c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

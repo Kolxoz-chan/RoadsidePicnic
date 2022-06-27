@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scripts/entities/decoration.gd" type="Script" id=2]
+
+[node name="static" type="StaticBody2D"]
+z_index = 2
+script = ExtResource( 2 )
+
+[node name="Sprite" type="Sprite" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( -0.503246, -0.032011 )
+
+[node name="Audio" type="AudioStreamPlayer2D" parent="."]
+
+[connection signal="item_rect_changed" from="." to="." method="_on_static_item_rect_changed"]

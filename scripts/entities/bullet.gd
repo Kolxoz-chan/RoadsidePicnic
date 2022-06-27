@@ -1,10 +1,14 @@
-class_name Bullet extends Sprite
+extends Area2D
 
+var _owner = null
 var _target = Vector2(0, 0)
 var _speed = 1500
 
 func setTarget(vec):
 	_target = vec
+	
+func setOwner(obj):
+	_owner = obj
 	
 func _process(delta):
 	var vec = position.direction_to(_target)
@@ -20,3 +24,11 @@ func _process(delta):
 	else:
 		position = _target
 	
+
+
+func _on_Bullet_body_entered(body):
+	if _owner != body:
+		queue_free() 
+		body.addDamage(rand_range(10, 25))
+		if body.type == Entity.TYPE.CHARACTER:
+			body.setTarget(_owner)

@@ -1,6 +1,7 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://scripts/entities/stalker.gd" type="Script" id=1]
+[ext_resource path="res://audio/sounds/voice/scream_01.wav" type="AudioStream" id=2]
 [ext_resource path="res://resources/animations/huntsman_shot.tres" type="SpriteFrames" id=3]
 
 [sub_resource type="CircleShape2D" id=1]
@@ -10,8 +11,11 @@ radius = 27.3453
 radius = 316.217
 
 [node name="stalker" type="KinematicBody2D"]
+z_index = 1
 input_pickable = true
 script = ExtResource( 1 )
+_speed = 80
+_damage_sound = ExtResource( 2 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2( -6.02271, -0.0296538 )
@@ -26,17 +30,11 @@ shape = SubResource( 2 )
 [node name="ShotTimer" type="Timer" parent="."]
 autostart = true
 
-[node name="Ray" type="RayCast2D" parent="."]
-enabled = true
-cast_to = Vector2( 0, 0 )
-
 [node name="Audio" type="AudioStreamPlayer2D" parent="."]
 
 [node name="Animation" type="AnimatedSprite" parent="."]
 frames = ExtResource( 3 )
 animation = "shot"
 
-[connection signal="mouse_entered" from="." to="." method="_on_stalker_mouse_entered"]
-[connection signal="mouse_exited" from="." to="." method="_on_stalker_mouse_exited"]
 [connection signal="body_entered" from="VisionArea" to="." method="_on_VisionArea_body_entered"]
 [connection signal="timeout" from="ShotTimer" to="." method="_on_ShotTimer_timeout"]
