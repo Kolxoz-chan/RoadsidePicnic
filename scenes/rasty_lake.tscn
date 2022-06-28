@@ -78,7 +78,7 @@ position = Vector2( 513.024, 965.3 )
 _weapon_slot = ExtResource( 12 )
 
 [node name="item" parent="objects_layer" instance=ExtResource( 2 )]
-position = Vector2( 145.97, 422.19 )
+position = Vector2( 516.782, 888.44 )
 _item_resource = ExtResource( 12 )
 
 [node name="decorations_layer" type="Node2D" parent="."]
