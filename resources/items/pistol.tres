@@ -12,5 +12,7 @@ _name = "Pistol"
 _description = ""
 _icon = ExtResource( 4 )
 _sprite = ExtResource( 5 )
+_usable = false
+_dropable = true
 _bullet_prefab = ExtResource( 1 )
 _shot_sound = ExtResource( 2 )

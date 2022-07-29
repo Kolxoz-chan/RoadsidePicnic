@@ -1,8 +1,10 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://scripts/entities/player.gd" type="Script" id=1]
 [ext_resource path="res://screens/hud_screen.tscn" type="PackedScene" id=2]
 [ext_resource path="res://resources/animations/huntsman_shot.tres" type="SpriteFrames" id=3]
+[ext_resource path="res://screens/inventory_screen.tscn" type="PackedScene" id=4]
+[ext_resource path="res://textures/light/spot.png" type="Texture" id=5]
 
 [sub_resource type="CircleShape2D" id=1]
 radius = 28.366
@@ -33,6 +35,17 @@ cast_to = Vector2( 0, 0 )
 frames = ExtResource( 3 )
 animation = "shot"
 
-[node name="hud_screen" parent="." instance=ExtResource( 2 )]
+[node name="Light2D" type="Light2D" parent="."]
+rotation = 1.5708
+texture = ExtResource( 5 )
+offset = Vector2( 0, -150 )
+
+[node name="ui" type="CanvasLayer" parent="."]
+
+[node name="hud_screen" parent="ui" instance=ExtResource( 2 )]
+visible = false
+
+[node name="inventory_screen" parent="ui" instance=ExtResource( 4 )]
+visible = false
 
 [connection signal="health_changed" from="." to="." method="_on_player_health_changed"]

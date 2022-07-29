@@ -23,11 +23,9 @@ func _process(delta):
 		position += vec * speed
 	else:
 		position = _target
-	
-
 
 func _on_Bullet_body_entered(body):
-	if _owner != body:
+	if _owner != body and body.type != Entity.TYPE.ITEM:
 		queue_free() 
 		body.addDamage(rand_range(10, 25))
 		if body.type == Entity.TYPE.CHARACTER:

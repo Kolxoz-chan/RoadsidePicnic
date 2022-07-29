@@ -1,6 +1,7 @@
 tool
 class_name StaticEntity extends StaticBody2D
 
+export var _light_occluder : OccluderPolygon2D
 export var _damage_sound : AudioStream
 export var _collision_shape : Shape2D
 export var _sprite : Texture
@@ -12,7 +13,8 @@ func _ready():
 		$CollisionShape2D.shape = _collision_shape
 	if _sprite:
 		$Sprite.texture = _sprite
-		
+	if _light_occluder:
+		$LightOccluder2D.occluder = _light_occluder
 	
 	
 func addDamage(value):

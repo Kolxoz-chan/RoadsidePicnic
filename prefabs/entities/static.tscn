@@ -13,4 +13,6 @@ position = Vector2( -0.503246, -0.032011 )
 
 [node name="Audio" type="AudioStreamPlayer2D" parent="."]
 
+[node name="LightOccluder2D" type="LightOccluder2D" parent="."]
+
 [connection signal="item_rect_changed" from="." to="." method="_on_static_item_rect_changed"]

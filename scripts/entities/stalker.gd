@@ -1,7 +1,6 @@
 class_name Stalker extends Character
 
 var _target = null
-var _gunpoint = null
 
 export(float, 0.0, 1.0) var _stay_radius = 0.6
 export(float, 0.0, 1.0) var _retreat_radius = 0.4
@@ -27,16 +26,11 @@ func _process(delta):
 			
 		else:
 			_target = null
-			
-	if _gunpoint:
-		vec = _gunpoint
-		_gunpoint = null
 	
 	move_and_slide(vec * _speed)
 			
 func at_gunpoint(pos):
-	if _target:
-		_gunpoint = -position.direction_to(pos)
+	pass
 
 func setTarget(obj):
 	_target = obj

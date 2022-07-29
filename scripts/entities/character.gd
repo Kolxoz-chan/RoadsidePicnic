@@ -5,6 +5,7 @@ export var _max_hp = 100
 export var _speed = 60
 export (Fractions.FractionsList) var _fraction
 export var _damage_sound : AudioStream
+export (Array, Resource) var _inventory = []
 
 # Slots
 export var _weapon_slot : Resource
@@ -21,6 +22,9 @@ func _process(delta):
 func addHP(value):
 	_hp += value
 	emit_signal("health_changed")
+	
+func addItem(item):
+	_inventory.append(item)
 	
 func addDamage(value):
 	addHP(-value)
